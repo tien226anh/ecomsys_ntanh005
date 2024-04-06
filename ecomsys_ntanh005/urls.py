@@ -22,4 +22,5 @@ urlpatterns = [
     path("api-auth/", include("rest_framework.urls")),
     path("book/", include("book.urls")),
     path("mobile/", include("mobile.urls")),
+    path("cloth/", include("cloth.urls")),
 ]
