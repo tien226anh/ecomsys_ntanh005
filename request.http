@@ -1,0 +1,7 @@
+GET http://localhost:8000/cloth/?limit=2 HTTP/1.1
+
+###
+GET http://localhost:8000/cloth/category HTTP/1.1
+
+###
+GET http://localhost:8000/media/images/cloth/b5fb794842929d0f1e709a1829116d81.jpg HTTP/1.1
